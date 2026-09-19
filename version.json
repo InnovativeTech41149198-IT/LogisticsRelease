@@ -1,7 +1,7 @@
 {
-  "latest_version": "2.1.1",
-  "download_url": "https://github.com/InnovativeTech41149198-IT/LogisticsRelease/releases/download/v2.1.1/Logistics_ERP_Setup_v2.1.0.exe",
+  "latest_version": "2.1.2",
+  "download_url": "https://github.com/InnovativeTech41149198-IT/LogisticsRelease/releases/download/v2.1.2/Logistics_ERP_Setup_v2.1.0.exe",
   "mandatory": false,
-  "release_date": "2026-09-18",
+  "release_date": "2026-09-19",
   "changelog": "• Modern Check for Update system with live speed and progress indicator.\n• Responsive layout and search enhancements.\n• Automated document routing and database stability improvements."
 }
