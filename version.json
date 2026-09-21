@@ -1,7 +1,7 @@
 {
-  "latest_version": "2.1.2",
-  "download_url": "https://github.com/InnovativeTech41149198-IT/LogisticsRelease/releases/download/2.1.2/Logistics_ERP_Setup_v2.1.0.exe",
+  "latest_version": "2.2.0",
+  "download_url": "https://github.com/InnovativeTech41149198-IT/LogisticsRelease/releases/download/v2.2.0/Logistics_ERP_Setup_v2.2.0.exe",
   "mandatory": false,
-  "release_date": "2026-09-19",
-  "changelog": "• Modern Check for Update system with live speed and progress indicator.\n• Responsive layout and search enhancements.\n• Automated document routing and database stability improvements."
+  "release_date": "2026-09-21",
+  "changelog": "• Compliance & Entity Masters Hub (Fleet, Passports/Visas, Insurance, Legal Registers).\n• Streamlined single Add Document button with adaptive field switching.\n• Entity vault folder mirror integration & follow-up tracking enhancements."
 }
