@@ -1,6 +1,6 @@
 {
   "latest_version": "2.2.2",
-  "download_url": "https://github.com/InnovativeTech41149198-IT/LogisticsRelease/releases/download/v2.2.2/Logistics_ERP_Setup_v2.2.2.exe",
+  "download_url": "https://github.com/InnovativeTech41149198-IT/LogisticsRelease/releases/download/2.2.1/Logistics_ERP_Setup_v2.2.1.exe",
   "mandatory": false,
   "release_date": "2026-09-22",
   "changelog": "• Animated Update Check Modal with real-time verification.\n• Storage & NAS Root Manager with direct UNC and manual path editing.\n• Shipment-style Direct Storage Engine with automatic broken link re-linking.\n• Document user role permissions & responsive UI enhancements."
