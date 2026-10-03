@@ -1,6 +1,6 @@
 {
-  "latest_version": "2.2.4",
-  "download_url": "https://github.com/InnovativeTech41149198-IT/LogisticsRelease/releases/download/v2.2.4/Logistics_ERP_Setup_v2.2.4.exe",
-  "release_date": "2026-09-26",
+  "latest_version": "2.2.5",
+  "download_url": "https://github.com/InnovativeTech41149198-IT/LogisticsRelease/releases/download/v2.2.5/Logistics_ERP_Setup_v2.2.5.exe",
+  "release_date": "2026-10-03",
   "changelog": "• Master Name Cascade Updates across Ledger, LedgerSGS, Shipments, Payments, Receipts, and Charges.\n• License & Insurance Lifecycle Voucher integration.\n• Expiring Documents card direct link to Expiry Reminders.\n• Storage / NAS root configuration accessible from Dashboards."
 }
